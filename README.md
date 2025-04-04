@@ -1,6 +1,5 @@
-## Họ và Tên: Nguyễn Tiến Thanh
-## MSV: 22810310382
-## Lớp học phần: D17CNPM5
+## Họ và Tên: Nguyễn Hoàng Việt
+## MSV: 22810310336
 
 ## Kết Quả
 ## Trang Home
